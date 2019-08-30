@@ -8,6 +8,7 @@ public class SeleniumTest {
 	public void browserAutomation(){
 		System.out.println("browserAutomation");
 		System.out.println("Git Updated from downloaded code");
+		System.out.println("Git Updated from 1st time written code");
 	}
 	
 	@Test

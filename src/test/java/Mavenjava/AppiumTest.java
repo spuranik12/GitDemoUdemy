@@ -7,6 +7,7 @@ public class AppiumTest {
 	@Test
 	public void nativeAppAndroid(){
 		System.out.println("nativeAppAndroid");
+		System.out.println("Commit 2");
 	}
 	
 	@Test
