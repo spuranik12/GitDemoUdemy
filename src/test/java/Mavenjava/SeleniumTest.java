@@ -21,4 +21,11 @@ public class SeleniumTest {
 	{
 		System.out.println("New branch created as Develop");
 	}
+	
+	@Test
+	public void updatedByOriginal()
+	{
+		System.out.println("EST");
+	}
+	
 }
