@@ -14,4 +14,10 @@ public class AppiumTest {
 	public void iosApp(){
 		System.out.println("iosApp");
 	}
+	
+	@Test
+	public void gitBranch()
+	{
+		System.out.println("New branch created as Develop");
+	}
 }
