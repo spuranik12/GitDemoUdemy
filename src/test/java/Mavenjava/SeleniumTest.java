@@ -15,4 +15,10 @@ public class SeleniumTest {
 	public void elementsOnUI(){
 		System.out.println("elementsOnUI");
 	}
+	
+	@Test
+	public void gitBranch()
+	{
+		System.out.println("New branch created as Develop");
+	}
 }
